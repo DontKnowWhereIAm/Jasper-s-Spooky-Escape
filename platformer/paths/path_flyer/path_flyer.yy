@@ -1,0 +1,27 @@
+{
+  "$GMPath":"",
+  "%Name":"path_flyer",
+  "closed":true,
+  "kind":1,
+  "name":"path_flyer",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1824.0,"y":384.0,},
+    {"speed":100.0,"x":1696.0,"y":480.0,},
+    {"speed":100.0,"x":1568.0,"y":544.0,},
+    {"speed":100.0,"x":1440.0,"y":672.0,},
+    {"speed":100.0,"x":1280.0,"y":704.0,},
+    {"speed":100.0,"x":1152.0,"y":896.0,},
+    {"speed":100.0,"x":1696.0,"y":896.0,},
+    {"speed":100.0,"x":1856.0,"y":672.0,},
+    {"speed":100.0,"x":1856.0,"y":672.0,},
+    {"speed":100.0,"x":1878.0,"y":625.0,},
+    {"speed":100.0,"x":1888.0,"y":576.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
