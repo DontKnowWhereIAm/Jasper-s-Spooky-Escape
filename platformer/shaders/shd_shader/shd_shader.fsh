@@ -20,7 +20,7 @@ void main()
 	//color.rgb *= mix(1.0, u_darknessFactor, brightness);  // Less dark near the ghost
 
     // Reduce brightness for a darker, spookier effect
-    float darknessFactor = 0.7;  // Adjust this value to control the darkness
+    float darknessFactor = 0.8;  // Adjust this value to control the darkness
     color.rgb *= darknessFactor;  // Apply darkness only to RGB channels
 	
 
